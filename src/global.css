@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Staatliches&display=swap");
+@import "tailwindcss";
+
+@theme default {
+  --font-inter: "Inter", sans-serif;
+  --font-staatliches: "Staatliches", sans-serif;
+  --color-textcolor: "#F5ECF6";
+  --color-bgcolor: "#DDDD0D";
+  --color-primary: "#31D92B";
+  --color-secondary: "#6829c6";
+  --color-accent: "#9E56EB";
+
+  --text-shadow-green-gradient: 0 0.1em #31d92b
+}
