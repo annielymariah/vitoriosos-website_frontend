@@ -4,7 +4,9 @@ export const Landing = () => {
   return (
     <>
       <LayoutComponents>
-        <p className="text-white">Ai Cowboy</p>
+        <div className="flex flex-col">
+        <p className="text-white">Em desenvolvimento</p>
+        </div>
       </LayoutComponents>
     </>
   );
